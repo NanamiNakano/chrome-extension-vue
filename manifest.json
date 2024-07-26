@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension Vue Template",
+  "description": "Template Chrome extension with Vue 3 + Vite",
+  "version": "0.1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "48": "logo.png",
+    "128": "logo.png"
+  }
+}

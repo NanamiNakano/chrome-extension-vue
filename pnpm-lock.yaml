@@ -45,6 +45,9 @@ importers:
       eslint-plugin-vue:
         specifier: ^9.23.0
         version: 9.27.0(eslint@8.57.0)
+      globals:
+        specifier: ^15.8.0
+        version: 15.8.0
       npm-run-all2:
         specifier: ^6.2.0
         version: 6.2.2

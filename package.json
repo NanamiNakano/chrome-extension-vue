@@ -27,6 +27,7 @@
     "@vue/tsconfig": "^0.5.1",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
+    "globals": "^15.8.0",
     "npm-run-all2": "^6.2.0",
     "typescript": "~5.4.0",
     "unocss": "^0.61.5",
